@@ -33,6 +33,19 @@ npm run start
 vercel --prod
 ```
 
+## Deployment Verification Checklist
+
+After production deploy, confirm the homepage shows:
+
+- `SolShield`
+- `DeveloperWeek 2026 Submission`
+- `DeFi Risk Monitoring Inside Your IDE`
+
+And no stale legacy branding text appears:
+
+- `HackMoney 2026`
+- `AI Liquidation Prevention Agent`
+
 ## Related Repositories
 
 - Submission package: https://github.com/mgnlia/devweek-2026-submission
