@@ -5,8 +5,9 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "AI Liquidation Prevention Agent",
-  description: "Protect your DeFi positions from liquidation with AI-powered monitoring and automatic rebalancing",
+  title: "SolShield — DeveloperWeek 2026",
+  description:
+    "MCP-powered DeFi liquidation protection with Kilo Code integration for DeveloperWeek 2026.",
 };
 
 export default function RootLayout({
