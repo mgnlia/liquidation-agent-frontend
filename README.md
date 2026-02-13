@@ -1,6 +1,6 @@
-# AI Liquidation Prevention Agent - Frontend
+# SolShield Frontend — DeveloperWeek 2026
 
-This is the landing page for the AI Liquidation Prevention Agent project built for HackMoney 2026.
+This is the landing page for **SolShield**, built for the **DeveloperWeek 2026 Hackathon**.
 
 ## Tech Stack
 
@@ -31,10 +31,10 @@ vercel --prod
 - Responsive landing page
 - Dark mode support
 - Project overview and features
-- Links to GitHub repository
-- HackMoney 2026 branding
+- Links to GitHub repositories
+- DeveloperWeek 2026 branding
 
-## Full Project
+## Related Repositories
 
-For the complete project including smart contracts, AI agent, and subgraph:
-https://github.com/mgnlia/liquidation-prevention-agent
+- Submission package: https://github.com/mgnlia/devweek-2026-submission
+- Backend agent: https://github.com/mgnlia/colosseum-agent-hackathon
