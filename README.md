@@ -1,40 +1,39 @@
 # SolShield Frontend — DeveloperWeek 2026
 
-This is the landing page for **SolShield**, built for the **DeveloperWeek 2026 Hackathon**.
+Frontend landing page for **SolShield**, the DeveloperWeek 2026 submission focused on DeFi liquidation risk monitoring via MCP + Kilo Code.
+
+## Live Site
+
+- **Vercel URL:** https://liquidation-frontend.vercel.app
 
 ## Tech Stack
 
-- **Next.js 14** - React framework
-- **TypeScript** - Type safety
-- **Tailwind CSS** - Styling
-- **Lucide React** - Icons
+- Next.js 14
+- TypeScript
+- Tailwind CSS
+- Lucide React
 
-## Getting Started
+## Local Development
 
 ```bash
 npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view the dashboard.
+## Production Build
 
-## Deployment
+```bash
+npm run build
+npm run start
+```
 
-This frontend is optimized for Vercel deployment:
+## Deploy
 
 ```bash
 vercel --prod
 ```
 
-## Features
-
-- Responsive landing page
-- Dark mode support
-- Project overview and features
-- Links to GitHub repositories
-- DeveloperWeek 2026 branding
-
 ## Related Repositories
 
 - Submission package: https://github.com/mgnlia/devweek-2026-submission
-- Backend agent: https://github.com/mgnlia/colosseum-agent-hackathon
+- Backend agent core: https://github.com/mgnlia/colosseum-agent-hackathon
